@@ -7,7 +7,7 @@ I'm a graduate in EAS (Eastern Asia Studies) in the University of Sevile who lov
 
 
 - 🌱 I’m currently learning JS and PHP, but on my second year I'll dive into more specific tecnologies as React, Angular, Vue, Laravel, Springboot, DJango, etc.
-- 💪 I love to learn, despite being an introvert I'm very sociable, I have great social, leading and management skills and I can work under pressure.
+- 💪 I love to learn. Despite being an introvert I'm very sociable. I have great social, leading and management skills. I can work under pressure.
 - 🔭 I’m currently working on my year proyect, GVM Art. On my second year I'll perfect it and use it as my frontpage for illustrations.
 - Languages I know:
   - Español (Nativo)
