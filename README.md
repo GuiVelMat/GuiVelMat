@@ -90,7 +90,7 @@ I'm a graduate in EAS (Eastern Asia Studies) in the University of Sevile who lov
 <br><br>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=iGuido14&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=iGuido14&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iGuido14&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iGuido14&theme=nightowl&area=true&hide_title=true&hide_border=true&radius=16" height="300" alt="activity-graph graph"  />
 </div>
