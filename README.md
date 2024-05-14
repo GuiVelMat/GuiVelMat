@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile!</h1>
+<h1 align="center">Welcome to my profile! 😎🤙</h1>
 
 Hey! My name's Guido (He/Him). I'm currently studying to become a Web Developer, specialicing in Frontend. 🏳️‍🌈 LGBTIQ+ Friendly 🏳️‍🌈
 <br><br>
