@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile! 😎🤙</h1>
 
-Hey! My name's Guido (He/Him). I'm currently studying to become a Web Developer, specialicing in Frontend. 🏳️‍🌈 LGBTIQ+ Friendly 🏳️‍🌈
+Hey! My name's Guido (He/Him). I'm currently studying to become a Web Developer, specialising in Frontend. 🏳️‍🌈 LGBTIQ+ Friendly 🏳️‍🌈
 <br><br>
 I'm a graduate in EAS (Eastern Asia Studies) in the University of Sevile who loves to learn about everything that somehow ended in the Coding sector. I really love history, language and mythology. Although, nowadays my heart and mind are distracted by JavaScript.
 <br><br>
