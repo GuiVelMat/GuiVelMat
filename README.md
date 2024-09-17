@@ -16,25 +16,11 @@ I'm a graduate in EAS (Eastern Asia Studies) in the University of Sevile who lov
   - 日本語 (N4レベル)
 
 
-  <h3 align="right">My Socials:</h3>
+  <h3 align="right">Contact me:</h3>
   <div align="right">
     <a href="gvm0898@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
     </a>
-    <a href="https://www.linkedin.com/in/guivelmat/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-    <a href="https://www.instagram.com/iguido14/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    </a>
-  </div>
-
-  <hr>
-  <div align="left">
-  <h3>Currently listening to:</h3>
-    
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5m8rn3guzrn26a41cxiep42ev&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=25a734&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=5m8rn3guzrn26a41cxiep42ev&redirect=true)
-
   </div>
 
 <hr><br>
