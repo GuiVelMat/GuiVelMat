@@ -14,15 +14,6 @@ I'm a graduate in EAS (Eastern Asia Studies) in the University of Sevile who lov
   - Galego (Medio-Alto, crieime en galiza ata os 15 anos)
   - English (High level)
   - 日本語 (N4レベル)
-- 👀 In my free time I love:
-  - 📖 Reading (and kinda writing too).
-    - ⭐<i>The name of the Wind</i>
-    - ⭐<i>Yumi and the Nightmare Painter</i>
-  - 🖌️ Illustration.
-  - 🎲 TTRPGs!
-  - 🎬 Anime:
-    - ⭐<i>Frieren beyond journey's end</i> 「葬送のフリーレン」
-    - ⭐<i>Hyouka</i>「氷菓」
 
 
   <h3 align="right">My Socials:</h3>
