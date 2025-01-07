@@ -45,3 +45,7 @@ Language proficiences:
 <div align="center" float="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiVelMat&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+## 📊 GitHub Metrics
+![Metrics](https://github.com/GuiVelMat/GuiVelMat/blob/main/metrics.svg)
+
