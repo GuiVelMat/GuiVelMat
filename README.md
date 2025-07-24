@@ -36,7 +36,7 @@ Language proficiencies:
 <h3 align="center">Other softwares and technologies:</h3>
 <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,git,cypress,postman,vscode,ps&perline=3&theme=light" />
+      <img src="https://skillicons.dev/icons?i=docker,git,cypress,postman,visualstudio,vscode,ps&perline=4&theme=light" />
     </a>
 </div>
   
